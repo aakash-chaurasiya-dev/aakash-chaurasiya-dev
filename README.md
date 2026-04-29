@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aakash (akki2021)
+# 👋 Hi, I'm Aakash
 
 <!-- ![Profile Banner](./banner.png) -->
 
